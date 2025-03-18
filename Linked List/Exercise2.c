@@ -1,1 +1,1 @@
-// https://github.com/NeroxLucas/Nero-DSA
+// git clone https://github.com/NeroxLucas/Nero-DSA
