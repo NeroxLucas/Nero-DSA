@@ -13,4 +13,4 @@
 //a function to initialize a clock variable with 3 values (hour, minutes, second)
 //a function to increase a clock variable by 1 second
 //a function to caluclate the difference between 2 clock variables 
-//a main function to test
+//a main function to test 
