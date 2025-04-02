@@ -138,3 +138,27 @@ int main() {
 
 // Con bai nao nx ko
 // Thi up len nhanh nhe
+
+
+// bai 3 day 
+
+/*
+Binary Search Tree (BST) Construction:
+- Insert numbers from X = [10, 30, 4, 51, 13, 8, 90] following BST rules.
+- Left subtree contains smaller values, right subtree contains larger values.
+
+BST Structure:
+            10
+      4            30
+        8       13    51
+                         90
+
+Traversal (Right → Left → Root):
+1. Recursively visit the right child.
+2. Recursively visit the left child.
+3. Visit the current node.
+
+Traversal Output:
+90, 51, 13, 30, 8, 4, 10
+*/
+
