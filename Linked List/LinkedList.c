@@ -56,6 +56,12 @@ int main() {
     return 0;
 }
 
+// COMPLEXITY: 
+// Worst case: O(n*(sqrt(m)) (All numbers are large primes)
+//     n : the number of elements in the array
+//     m : the largest number in the array
+// Best case : O(n) (All numbers are small and non-prime (even numbers for e.g)
+// Average case : O(n*(sqrt(m)) (Mix of prime and non-prime numbers)
 
 //bai 2 
 //implement a clock data structure to manipulate time
