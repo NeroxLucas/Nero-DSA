@@ -159,6 +159,10 @@ Traversal (Right → Left → Root):
 3. Visit the current node.
 
 Traversal Output:
-90, 51, 13, 30, 8, 4, 10
+Right-child traversal: 10, 30, 51, 90
+
+Left-child traversal: 10, 4, 8, 30, 13
+
+Final visit order: 90, 51, 13, 30, 8, 4, 10
 */
 
